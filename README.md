@@ -1,5 +1,5 @@
 # Integrated Task & Motion Planning for a Simplified Mars Rover Exploration Problem
-## Cognitive Robotics Spring 2022 Final Project - Alex Furman & Yotam Granov
+## Cognitive Robotics 
 
 <p align="center">
   <img src="https://github.com/AlexanderFurman/Cognitive-Robotics-Project/blob/main/Graphics/Rover.jpg">
@@ -116,21 +116,3 @@ There are many variations on the RRT algorithm, one specifically worth mentionin
 <p align="center">
   <img src="https://github.com/AlexanderFurman/Cognitive-Robotics-Project/blob/main/Graphics/Arm_Animation.gif" alt="animated" />
 </p>
-
-### References
-
-[1] AIPlan4EU. ["The Unified Planning Library"](https://unified-planning.readthedocs.io/en/latest/index.html), 2021. GitHub: https://github.com/aiplan4eu/unified-planning
-
-[2] Wenjun Cheng & Yuhui Gao. ["Using PDDL to Solve Vehicle Routing Problems"](https://hal.inria.fr/hal-01383334). *8th International Conference on Intelligent Information Processing (IIP)*, 2014.
-
-[3] Tim Chinenov. ["Robotic Path Planning: RRT and RRT*"](https://theclassytim.medium.com/robotic-path-planning-rrt-and-rrt-212319121378). 2019. 
-
-[4] Malte Helmert. ["The Fast Downward Planning System"](https://www.aaai.org/Papers/JAIR/Vol26/JAIR-2606.pdf). *Journal of Artificial Intelligence Research (JAIR)*, 2006. GitHub: https://github.com/aibasel/downward
-
-[5] Sertac Karaman & Emilio Frazzoli. ["Sampling-Based Algorithms for Optimal Motion Planning"](https://journals.sagepub.com/doi/abs/10.1177/0278364911406761). *The International Journal of Robotics Research (IJRR)*, 2011.
-
-[6] Alexey Klochay. ["Implementing Dijkstra’s Algorithm in Python"](https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html). *Udacity*, 2021. 
-
-[7] Atsushi Sakai, Daniel Ingram, Joseph Dinius, Karan Chawla, Antonin Raffin & Alexis Paques. ["PythonRobotics: A Python Code Collection of Robotics Algorithms"](https://arxiv.org/abs/1808.10703). 2018. GitHub: https://github.com/AtsushiSakai/PythonRobotics
-
-[8] Oren Salzman. "Sampling-Based Planners" Lecture, Algorithmic Robot Motion Planning Course (236610): Technion - Israel Institute of Technology, 2021.
